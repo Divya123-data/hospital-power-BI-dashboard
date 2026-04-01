@@ -9,7 +9,7 @@ and treatment costs for hospital operations reporting.
 ## Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](hospital-dashboard.pbix)
+![Main Dashboard](hospital-main-dashboard.png)
 
 ### Disease Details Page
 ![Disease Details](drill-through-disease.png)
