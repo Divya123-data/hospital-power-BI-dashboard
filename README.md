@@ -9,10 +9,10 @@ and treatment costs for hospital operations reporting.
 ## Dashboard Preview
 
 ### Main Dashboard
-![Main Dashboard](hospital-dashboard-main.png)
+![Main Dashboard](hospital-dashboard.pbix)
 
 ### Disease Details Page
-![Disease Details](hospital-dashboard-disease.png)
+![Disease Details](drill-through-disease.png)
 
 ## What I Did
 - Built KPI cards for Total Patients, Total Encounters, Total Treatment Cost
